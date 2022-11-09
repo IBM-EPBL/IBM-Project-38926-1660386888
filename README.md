@@ -1,11 +1,12 @@
 # IBM-Project-38926-1660386888
-Airlines Data Analytics for Avaition Industry
+✈️ Airlines Data Analytics for Avaition Industry
 
+- Team Lead
+       Pradeeshkumar R
 
- 1.Pradeeshkumar R- Team Leader
+- Team Member
+       Prakash P
  
- 2.Prakash P- Team Member1
+       Vasanthkumar K
  
- 3.Vasanthkumar K- Team Member2
- 
- 4.Vijayabharathi K- Team Member3
+       Vijayabharathi K
