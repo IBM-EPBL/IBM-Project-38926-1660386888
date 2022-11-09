@@ -2,9 +2,9 @@
 ✈️ Airlines Data Analytics for Avaition Industry
 
  Team Lead
-    Pradeeshkumar R
+   1.Pradeeshkumar R
 
  Team Member
-      Prakash P
-      Vasanthkumar K 
-      Vijayabharathi K
+    1. Prakash P
+    2. Vasanthkumar K 
+    3. Vijayabharathi K
