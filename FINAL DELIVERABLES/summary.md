@@ -22,11 +22,5 @@ These insights might help governments, airport authorities, airline organization
     The weather data for each of the major airports could be obtained and combined with the existing datasets. 
     With the new dataset, one could determine the exact weather conditions that resulted in delay/cancalltions like Rain, Fog, etc.
 
-<div class="parent" style="display: inline-block;width: 100%;">
-    <div class="header3" style="display: inline;float: left;width: 50%;">
-        <a href="analysis"><img src="IMAGE/prev-page.png" style="max-width: 50px"></a>
-    </div>
-    <div style="text-align: right;display: inline;cursor:pointer;float: right;right: -6px;" align="right"> 
-        <a href="glossary"><img src="IMAGE/next-page.png" style="max-width: 50px"></a>
-    </div>
-</div>
+
+
