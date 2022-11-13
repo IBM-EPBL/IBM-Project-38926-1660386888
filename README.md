@@ -65,7 +65,7 @@ The main dataset i.e. [Airline Cancellation/Delay (2009-2018)](https://www.kaggl
 
 
 #### Fields (Airline Cancellation/Delay (2009-2018) dataset):
-![](images/main_data_set.png)
+![](IMAGE/main_data_set.png)
 
 #### Fields (The Global Airport Database dataset):
 
