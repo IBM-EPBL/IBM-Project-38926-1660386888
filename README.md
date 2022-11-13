@@ -91,18 +91,18 @@ Longitude Decimal Degrees|Floating point [-180,180]|-84.427
 #### Fields Preview (Main Dataset):
 
 Set 1: 15/27 columns
-![](images/main_dataset_1.png)
+![](IMAGE/main_dataset_1.png)
 
 Set 2: Remaining 12/27 columns
-![](images/main_dataset_2.png)
+![](IMAGE/main_dataset_2.png)
 
 Fields Preview (Auxillary Dataset):
-![](images/aux_dataset_1.png)
+![](IMAGE/aux_dataset_1.png)
 
 #### Fields Graph:
 
 The following shows the relation between columns:
-![](images/kaggle-airline-data.png)
+![](IMAGE/kaggle-airline-data.png)
 
 ### Obtaining the Data & Preprocessing
 ---
@@ -159,38 +159,38 @@ Analysis carried out with [Google Data Studio](https://datastudio.google.com)
 ---
 
 - Overall Cancellation Reasons
-![](images/7_Cancellation_Reason_bifurcation.png)
+![](IMAGE/7_Cancellation_Reason_bifurcation.png)
 
 ---
 
 - Overall Cancellation Reasons (Busiest Airport - Atlanta)
-![](images/8_Cancellation_Reason_top_airport_ATL.png)
+![](IMAGE/8_Cancellation_Reason_top_airport_ATL.png)
 
 
 ---
 
 - Delay Count (2009-2018)
-![](images/Overall_delays_cnt.png)
+![](IMAGE/Overall_delays_cnt.png)
 
 ---
 
 - Delay Count (2018) (Year of max delays and cancellations)
 
-![](images/Overall_delay_cnt_2018.png)
+![](IMAGE/Overall_delay_cnt_2018.png)
 
 ---
 
 - Delay Percentage for top 5 airports (2009-2018)
-![](images/Overall_delays_percent.png)
+![](IMAGE/Overall_delays_percent.png)
 
 ---
 
 - Delay Percentage for top 5 airports (2018) (Year of max delays and cancellations)
 
-![](images/Overall_delays_percent_2018.png)
+![](IMAGE/Overall_delays_percent_2018.png)
 
 - Most unreliable month in 2018 (Cancellations in ascending order)
-![](images/unreliable_month_2018.png)
+![](IMAGE/unreliable_month_2018.png)
 
 #### Software Specifications:
 
