@@ -103,7 +103,7 @@ WHERE
 4. **OO** (SkyWest Airlines)
 5. **MQ** (American Eagle Airlines)
 
-<a href="images/1_five_busiest_airport_airline.png"><img src="images/1_five_busiest_airport_airline.png" style="min-width: 500px"></a>
+<a href="IMAGE/1_five_busiest_airport_airline.png"><img src="IMAGE/1_five_busiest_airport_airline.png" style="min-width: 500px"></a>
 
 <br>
 
@@ -198,13 +198,13 @@ WHERE
 | 5. | **LAX** | (Los Angeles International Airport) | 7.9|
 
 
-<a href="images/2_Cancellations_Pie_Chart.png"><img src="images/2_Cancellations_Pie_Chart.png" style="min-width: 500px"></a>
+<a href="IMAGE/2_Cancellations_Pie_Chart.png"><img src="IMAGE/2_Cancellations_Pie_Chart.png" style="min-width: 500px"></a>
 
 <br><br>
 
 #### Airline-wise Cancellation Bifurcation
 <br>
-<a href="images/3_Cancellation_bifurcation.png"><img src="images/3_Cancellation_bifurcation.png" style="min-width: 600px"></a>
+<a href="IMAGE/3_Cancellation_bifurcation.png"><img src="IMAGE/3_Cancellation_bifurcation.png" style="min-width: 600px"></a>
 
 <br>
 <br>
@@ -284,7 +284,7 @@ ORDER BY
 
 <br>
 <br>
-<a href="images/7_Cancellation_Reason_bifurcation.png"><img src="images/7_Cancellation_Reason_bifurcation.png" style="min-width: 500px"></a>
+<a href="IMAGE/7_Cancellation_Reason_bifurcation.png"><img src="IMAGE/7_Cancellation_Reason_bifurcation.png" style="min-width: 500px"></a>
 
 <br>
 <br>
@@ -301,7 +301,7 @@ ORDER BY
 
 <br>
 
-<a href="images/8_Cancellation_Reason_top_airport_ATL.png"><img src="images/8_Cancellation_Reason_top_airport_ATL.png" style="min-width: 500px"></a>
+<a href="IMAGE/8_Cancellation_Reason_top_airport_ATL.png"><img src="IMAGE/8_Cancellation_Reason_top_airport_ATL.png" style="min-width: 500px"></a>
 
 <br>
 <br>
@@ -395,7 +395,7 @@ WHERE
 #### Overall Delays at Top 5 Airports with top 5 airlines
 
 
-<a href="images/4_Delay_bifurcation.png"><img src="images/4_Delay_bifurcation.png" style="min-width: 600px"></a>
+<a href="IMAGE/4_Delay_bifurcation.png"><img src="IMAGE/4_Delay_bifurcation.png" style="min-width: 600px"></a>
  
 <br>
 
@@ -456,7 +456,7 @@ ORDER BY
 ```
 #### Overall Cancellation/Delays Yearwise
 
-<a href="images/5_yearwise_delays_cancalltions.png"><img src="images/5_yearwise_delays_cancalltions.png" style="min-width: 800px"></a>
+<a href="IMAGE/5_yearwise_delays_cancalltions.png"><img src="IMAGE/5_yearwise_delays_cancalltions.png" style="min-width: 800px"></a>
 
 <br>
 
@@ -480,7 +480,7 @@ ORDER BY
 | 10. |2018 | 116|
 
 <br>
-<a href="images/6_yearwise_cancalltions.png"><img src="images/6_yearwise_cancalltions.png" style="min-width: 600px"></a>
+<a href="IMAGE/6_yearwise_cancalltions.png"><img src="IMAGE/6_yearwise_cancalltions.png" style="min-width: 600px"></a>
 
 
 ## Overall Delay Time Frequency with Top 5 Airports (2009-2018)
@@ -567,7 +567,7 @@ WITH top_5_airports as (
 
 #### Overall Delay Time Frequency with Top 5 Airports (UDF Function)
 
-<a href="images/8_Overall_delays_cnt.png"><img src="images/8_Overall_delays_cnt.png" style="min-width: 500px"></a>
+<a href="IMAGE/8_Overall_delays_cnt.png"><img src="IMAGE/8_Overall_delays_cnt.png" style="min-width: 500px"></a>
 
 <br>
 
